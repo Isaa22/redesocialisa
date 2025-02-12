@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #EFF5FB; 
+    background-color: #0B0B61; 
 }
 
 .foto-container {
@@ -24,7 +24,7 @@ h1 {
 }
 
 p {
-    color: #0B0B61;
+    color: #EFF5FB;
 }
 .botao {
     width: 60px;
