@@ -5,7 +5,7 @@ let audios = [
     {caminho:'Iframe BIN - Quase uma Semana FT. L7NNON, Borges (prod.Ajaxx) [RiYQ90oyYBw].mp3', legenda:'quase uma semana'},
     {caminho:'Iframe BIN - Saturno (prod. Ajaxx) [VF97zz_5oCc].mp3', legenda:'Saturno'},
     {caminho:'Iframe Charlie Brown Jr - como tudo deve ser [d4iGRWvlfMY].mp3', legenda:'Como tudo deve ser'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Charlie Brown Jr. - Me Encontra (Lyric Video) [eG4mIKjrOq0].mp3', legenda:'Me encontra'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
 ];
