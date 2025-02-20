@@ -1,7 +1,7 @@
 let audios = [
     {caminho:'A Morte do Autotune.mp3', legenda:'Matue morte do autotune'},
     {caminho:'Iframe 9. L7NNON - Perdição _ HHR [uzSme3PRhZ0].mp3', legenda:'Perdição'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Acústico 1Kilo - Deixe-me Ir (Baviera, Knust e Pablo Martins) [TQ5DUv_ZwRg].mp3', legenda:'Deixe me ir'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
