@@ -6,7 +6,7 @@ let audios = [
     {caminho:'Iframe BIN - Saturno (prod. Ajaxx) [VF97zz_5oCc].mp3', legenda:'Saturno'},
     {caminho:'Iframe Charlie Brown Jr - como tudo deve ser [d4iGRWvlfMY].mp3', legenda:'Como tudo deve ser'},
     {caminho:'Iframe Charlie Brown Jr. - Me Encontra (Lyric Video) [eG4mIKjrOq0].mp3', legenda:'Me encontra'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Charlie Brown Jr. - Meu Novo Mundo _OFICIAL HD_ [jp288zfsNTI].mp3', legenda:'Meu novo mundo'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
 ];
 
