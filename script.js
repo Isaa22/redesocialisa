@@ -3,7 +3,7 @@ let audios = [
     {caminho:'Iframe 9. L7NNON - Perdição _ HHR [uzSme3PRhZ0].mp3', legenda:'Perdição'},
     {caminho:'Iframe Acústico 1Kilo - Deixe-me Ir (Baviera, Knust e Pablo Martins) [TQ5DUv_ZwRg].mp3', legenda:'Morte do autotune'},
     {caminho:'Iframe BIN - Quase uma Semana FT. L7NNON, Borges (prod.Ajaxx) [RiYQ90oyYBw].mp3', legenda:'Perdição'},
-    {caminho:'Iframe BIN - Saturno (prod. Ajaxx) [VF97zz_5oCc].mp3', legenda:'Saturno'},
+    {caminho:'Iframe BIN - Saturno (prod. Ajaxx) [VF97zz_5oCc].mp3', legenda:'Deixe me ir'},
     {caminho:'Iframe Charlie Brown Jr - como tudo deve ser [d4iGRWvlfMY].mp3', legenda:'Como tudo deve ser'},
     {caminho:'Iframe Charlie Brown Jr. - Me Encontra (Lyric Video) [eG4mIKjrOq0].mp3', legenda:'Me encontra'},
     {caminho:'Iframe Charlie Brown Jr. - Meu Novo Mundo _OFICIAL HD_ [jp288zfsNTI].mp3', legenda:'Meu novo mundo'},
