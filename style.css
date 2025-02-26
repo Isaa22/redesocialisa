@@ -10,12 +10,12 @@ html, body {
     padding: 16px;
 }
 img {
-    border: 5px double #292f32; 
+    border: 6px double #8A0829; 
     border-radius: 10%;
 }
 
 .container img {
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 h1 {
