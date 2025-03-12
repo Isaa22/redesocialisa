@@ -1,5 +1,5 @@
 let audios = [
-    {caminho:'A Morte do Autotune.mp3', legenda:'Morte do autotune'},
+    {caminho:'A Morte do Autotune.mp3', legenda:'como tudo deve ser'},
     {caminho:'Iframe 9. L7NNON - Perdição _ HHR [uzSme3PRhZ0].mp3', legenda:'Perdição'},
     {caminho:'Iframe Acústico 1Kilo - Deixe-me Ir (Baviera, Knust e Pablo Martins) [TQ5DUv_ZwRg].mp3', legenda:'Morte do autotune'},
     {caminho:'Iframe BIN - Quase uma Semana FT. L7NNON, Borges (prod.Ajaxx) [RiYQ90oyYBw].mp3', legenda:'Perdição'},
